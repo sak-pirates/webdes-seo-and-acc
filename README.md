@@ -1,2 +1,2 @@
 # webdes-seo-and-acc
-seo and accesiblity
+added search engine optimisation and accesiblity
